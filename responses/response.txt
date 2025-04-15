@@ -1,0 +1,201 @@
+{main_keyword}="
+contractor reviews state college pa
+"
+{target_word_count}="
+953
+"
+{title_terms}="
+state college
+pa
+contractor
+review
+contractors in state college
+general contractor
+construction
+"
+{basic_content_terms}="
+state college
+contractor
+pa
+review
+general contractor
+construction
+remodel
+rating
+centre
+home improvement
+kitchen
+floor
+bathroom
+builder
+repair
+installation
+roof
+centre county
+license
+"
+{content_extended}="
+contractors in state college
+near state college
+pro
+houzz
+residential
+llc
+home construction
+central pa
+residential construction
+hiring a general contractor
+customer reviews
+better business bureau
+angi
+contract
+handyman
+basement
+electrical
+trust
+timely
+yelp.com
+new construction
+new home
+plumb
+general contracting
+addition
+specialize
+local general
+gutter
+custom homes
+central pennsylvania
+pricing
+building construction
+hvac
+read reviews
+customer service
+construction management
+permit
+subcontractors
+tyrone
+years of experience
+looking for residential
+expertise
+homeowner
+construction projects
+completion
+carpentry
+search results page
+directory
+owned and operated
+craftsmanship
+specialty
+bbb directory
+tile and hardwood
+offer competitive
+highest quality
+workmanship
+subcontractor
+screened by bbb
+small local
+listing
+"
+{entities}="
+General contractor
+Construction
+Renovation
+Home improvement
+Basement
+Attention
+Customer
+State College, Pennsylvania
+Subcontractor
+Houzz
+Investment
+Tile
+Carpentry
+Room
+Cost
+Plumbing
+Kitchen
+Angi
+Bathroom
+Budget
+Wood flooring
+Pride
+Payment
+Better Business Bureau
+Pennsylvania
+HTTP cookie
+Website
+"
+{paa_questions}="
+What not to tell your contractor?
+What is the hourly rate for contractors in PA?
+How much should you pay a general contractor?
+How to review contractors?
+"
+{content_questions}="
+Are warranties offered by CAVELL'S CONSTRUCTION?
+As you ring in the new year, you may wonder: What are the top home improvement ideas of 2025?
+Can you provide references and proof of licensing and insurance?
+Do general contractors require a down payment for projects?
+Does CAVELL'S CONSTRUCTION offer a senior discount?
+Does CAVELL'S CONSTRUCTION offer eco-friendly accreditations?
+Does CAVELL'S CONSTRUCTION offer emergency services?
+Does CAVELL'S CONSTRUCTION offer free estimates?
+How Much Does Basement Waterproofing Cost?
+How Much Does It Cost to Repair a Dishwasher?
+How Much Does Plumbing Repair Cost?
+How Much Does Smoke Detector Installation Cost?
+How do I find a local General Contractor?
+How do you handle disputes or issues during construction?
+How do you handle pricing, including changes and budget overruns?
+How is CAVELL'S CONSTRUCTION overall rated?
+How is State College Design & Construction rated?
+How much do general contractors typically charge?
+Is it worth hiring a general contractor?
+Should general contractors be certified or licensed?
+What days are CAVELL'S CONSTRUCTION open?
+What does a general contractor do?
+What payment options does CAVELL'S CONSTRUCTION provide?
+What questions should I ask a general contractor?
+What services do General Contractors typically provide?
+What services does CAVELL'S CONSTRUCTION offer?
+What services does State College Design & Construction provide?
+What should I look for in a general contractor's bid?
+What type of contract do you use and what documentation will you provide?
+Where does State College Design & Construction provide services?
+Who will work on the project and what qualities do you seek in subcontractors?
+Why Hire General Contractors on Houzz?
+Will you hire subcontractors for the job?
+Will you obtain all of the required building permits?
+"
+{competitors}="
+https://www.yelp.com/search?cflt=contractors&find_loc=State+College%2C+PA
+https://www.houzz.com/professionals/general-contractor/state-college-pa-us-probr0-bo~t_11786~r_5213681
+https://www.bbb.org/us/pa/state-college/category/general-contractor
+https://www.angi.com/companylist/us/pa/state-college/contractor.htm
+https://www.yelp.com/search?cflt=handyman&find_loc=State+College%2C+PA
+https://www.angi.com/companylist/us/pa/state-college/cavell%27s-construction-reviews-5880040.htm
+https://www.houzz.com/professionals/general-contractors/state-college-design-and-construction-pfvwus-pf~93402605
+https://www.alliedme.com/testimonials
+https://www.bbb.org/us/pa/state-college/category/painting-contractors
+https://www.yellowpages.com/state-college-pa/building-contractors
+https://www.buildzoom.com/contractor/mike-rushing
+https://www.indeed.com/cmp/Poole-Anderson-Construction-1/reviews?fcountry=US&floc=State+College%2C+PA
+https://www.guildquality.com/pro/blusky-restoration-contractors-of-state-college
+https://www.buildzoom.com/contractor/brent-becker
+https://www.pbciallen.com/
+https://reviews.birdeye.com/ab-painting-services-167028488433567
+https://www.statecollegepa.us/450/Design-Review-Board
+https://www.indeed.com/cmp/Blusky-Restoration-Contractors,-LLC/reviews?fcountry=US&floc=State+College%2C+PA
+https://www.goblusky.com/locations/state-college-pa/
+https://www.vbrinc.com/commercial-services
+https://www.pella.com/locations/pa/state-college/
+https://www.statecollege.com/articles/local-news/responsible-contractor-ordinance-back-on-the-table-in-state-college/
+https://www.pjfitz.com/areas/pennsylvania/centre-county/home-improvement-in-state-college/
+https://www.opp.psu.edu/design-and-construction
+https://reviews.birdeye.com/sa-homes-corporate-office-166515668080858
+https://ecode360.com/46026883
+https://www.glassdoor.ie/Job/state-college-pa-construction-project-manager-jobs-SRCH_IL.0,16_IC1153370_KO17,45.htm
+https://todayshomeowner.com/near-me/pennsylvania/state-college/roofing/
+https://www.statecollege.com/business-directory/category/paving-contractors/
+https://dzrenovations.com/carpentry-services-state-college-pa/
+"

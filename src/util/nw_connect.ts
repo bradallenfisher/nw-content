@@ -21,6 +21,10 @@ interface NWResponse {
     title: string;
     desc_title: string;
     h1: string;
+    content_basic: string;
+    content_basic_w_ranges: string;
+    content_extended: string;
+    entities: string;
     [key: string]: string;
   };
   terms?: {
