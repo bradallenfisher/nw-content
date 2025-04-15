@@ -6,13 +6,9 @@ import { join } from 'path';
 function formatResponse(data: any): string {
   let output = '';
   
-  // Keyword
   output += '{main_keyword}="\n' + (data.keyword || '') + '\n"';
-  
-  // Word count
   output += '\n{target_word_count}="\n' + (data.metrics?.word_count?.target || '') + '\n"';
   
-  // Terms
   const titleTerms = data.terms?.title?.map((term: { t: string }) => term.t).join('\n') || '';
   output += '\n{title_terms}="\n' + titleTerms + '\n"';
   
@@ -37,7 +33,6 @@ function formatResponse(data: any): string {
   }
   output += '\n{content_questions}="\n' + contentQuestions + '\n"';
   
-  // Competitors - only URLs
   let competitors = '';
   if (data.competitors) {
     competitors = data.competitors.map((comp: any) => comp.url).join('\n');
@@ -59,13 +54,10 @@ export async function GET() {
     
     const queryResults = await nw.getQuery(queryId);
     
-    // Debug log to see the structure
-    console.log('Terms structure:', JSON.stringify(queryResults.terms, null, 2));
-    
     // Format the data
     const formattedOutput = formatResponse(queryResults);
     
-    // Save to file with fixed name
+    // Save to file
     const filename = 'response.txt';
     const responsesDir = join(process.cwd(), 'responses');
     const filePath = join(responsesDir, filename);
@@ -80,7 +72,8 @@ export async function GET() {
 
     return NextResponse.json({
       success: true,
-      message: `Data saved to ${filename}`
+      message: `Data saved to ${filename}`,
+      formattedData: formattedOutput
     });
   } catch (error) {
     return NextResponse.json(
@@ -91,4 +84,4 @@ export async function GET() {
       { status: 500 }
     );
   }
-}
+} 
